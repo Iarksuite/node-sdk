@@ -1,2 +1,1 @@
-# node-sdk
-larksuite open sdk for nodejs
+This is Larksuite's Hackerone bug bounty test
